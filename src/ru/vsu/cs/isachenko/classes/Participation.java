@@ -1,4 +1,4 @@
-package ru.vsu.cs.surkov.classes;
+package ru.vsu.cs.isachenko.classes;
 
 public class Participation {
 
