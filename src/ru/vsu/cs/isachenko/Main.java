@@ -1,8 +1,8 @@
-package ru.vsu.cs.surkov;
+package ru.vsu.cs.isachenko;
 
-import ru.vsu.cs.surkov.classes.Faculty;
-import ru.vsu.cs.surkov.classes.Institute;
-import ru.vsu.cs.surkov.classes.ResearchAssociate;
+import ru.vsu.cs.isachenko.classes.Faculty;
+import ru.vsu.cs.isachenko.classes.Institute;
+import ru.vsu.cs.isachenko.classes.ResearchAssociate;
 
 
 public class Main {
